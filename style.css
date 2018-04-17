@@ -6,7 +6,7 @@ h1 {
   color: white;
   font-size: 36px;
   font-weight: 600;
-  text-align: left;
+  text-align: center;
 }
 
 h2 {
@@ -37,7 +37,14 @@ ul {
   text-align: left;
 }
 img{
-  height: 200px;
-  width:  200px;
+  height: 400px;
+  width:  400px;
 
+}
+
+li{
+	color: white;
+	font-size:20px;
+	font-weight: 400;
+	text-align:center;
 }
